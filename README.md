@@ -28,3 +28,5 @@
 * Related posts will show up while inside of a post which will be filtered by topic name.
 
 * Quick Walkthrough - https://www.youtube.com/watch?v=5sywVg_tyQU
+
+* Deployed Link - https://featured-blog.herokuapp.com/
